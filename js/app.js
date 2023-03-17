@@ -1,5 +1,5 @@
-let tickets_sold = 5000;
-let venue_capacity = 6000
+let tickets_sold = 6000;
+let venue_capacity = 6000;
 let performer = "Bon Jovi";
 let special_perf_one = `Alex Bymoen`;
 let special_perf_two = `Elvis Presley`;
